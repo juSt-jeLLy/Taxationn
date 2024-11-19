@@ -16,7 +16,7 @@ export default function InvoiceDashboardPage() {
   return (
     <>
       <Head>
-        <title>Request Invoicing</title>
+        <title>Taxation</title>
       </Head>
       <div className="container m-auto  w-[100%]">
         <InvoiceDashboard
